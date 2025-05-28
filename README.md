@@ -1,4 +1,4 @@
-# Hey there! I'm Abdelrahman Mohamed 👋
+# Hey there! I'm Abdo 👋
 
 ---
 
