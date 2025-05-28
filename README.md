@@ -12,7 +12,7 @@ I’ve also gained valuable experience working as a **WordPress developer**, bui
 
 Currently, I am diving deeper into **system engineering and DevOps**, eager to master the tools and methodologies that power modern software development.
 
-My goal? To keep growing, learning, and contributing—especially through exciting opportunities like the **Erasmus+ internship**, where I can combine my technical skills with international exposure and cultural exchange.
+I’m actively seeking exciting **work, training, or internship opportunities** where I can apply my skills, continue learning, and contribute meaningfully to innovative projects.
 
 ---
 
@@ -40,7 +40,7 @@ Each project represents a chapter of my learning journey and technical growth:
 
 ## Let’s Connect!
 
-I’m always excited to meet new people, collaborate, and exchange ideas. Whether you want to discuss tech, internships, or just say hello:
+I’m always excited to meet new people, collaborate, and exchange ideas. Whether you want to discuss tech, career opportunities, or just say hello:
 
 - 🔗 [LinkedIn](http://www.linkedin.com/in/abdo-mo)  
 - 📧 abdoessammo@gmail.com  
