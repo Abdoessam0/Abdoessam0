@@ -6,7 +6,7 @@ Computer Engineering Student • Full-Stack Developer • AI & DevOps Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdo-mo)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdoessam0)
-[![Portfolio](https://img.shields.io/badge/Portfolio-in%20progress-111?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white)](https://abdoessamcv.vercel.app)
 
 </div>
 
