@@ -1,238 +1,95 @@
-# Hey there, I'm Abdo 👋
+<div align="center">
+
+# Hey there, I'm Abdo 👋  
+
+Computer Engineering Student • Full-Stack Developer • AI & DevOps Enthusiast  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdo-mo)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdoessam0)
+[![Portfolio](https://img.shields.io/badge/Portfolio-in%20progress-111?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+</div>
+
+---
+
+## 🚀 About me
 
 Computer Engineering student at **Atatürk University**.  
-Full-Stack Developer with hands-on experience in **Next.js 15**, **TypeScript**, **React**, **Tailwind**, **Supabase**, **Node.js**, **PHP/Laravel**, and **AI/ML (YOLOv8)**.
+I work mainly with **Next.js 15**, **TypeScript**, **React**, **Tailwind**, **Supabase**, **Node.js**, **PHP/Laravel**, and **AI/ML (YOLOv8)**.
 
-I build functional, production-ready systems.  
-I enjoy debugging, improving performance, and writing clean code.  
-I focus on practical learning through real projects, internships, and research.
-
----
-
-## What I Do
-
-- Full-stack web development  
-- AI vision and small ML systems  
-- System engineering with Linux, Git, CI/CD  
-- Real estate platforms with production SEO  
-- UI/UX refinement and responsive design  
-- API integrations and cloud deployment
+- I build functional, production-ready systems  
+- I enjoy debugging and performance tuning  
+- I learn by shipping real projects, not just tutorials  
 
 ---
 
-## Tech Stack
+## 🧰 Tech stack
 
-**Languages**  
-JavaScript  
-TypeScript  
-Python  
-C  
-C#  
-PHP  
-SQL  
-HTML  
-CSS  
+### Languages  
+`JavaScript` · `TypeScript` · `Python` · `C` · `C#` · `PHP` · `SQL` · `HTML` · `CSS`
 
-**Frameworks**  
-Next.js 15  
-React  
-Node.js  
-Laravel  
-Tailwind  
-Supabase  
-WordPress (themes + plugins)  
+### Frameworks & Libraries  
+`Next.js 15` · `React` · `Node.js` · `Laravel` · `Tailwind CSS` · `Supabase` · `WordPress`
 
-**Tools**  
-Git  
-GitHub  
-Linux  
-Vercel  
-Docker basics  
-Figma  
-AWS (learning)
+### Tools & Platforms  
+`Git` · `GitHub` · `Linux` · `Vercel` · `Docker (basics)` · `Figma` · `AWS (learning)`
 
 ---
 
-## Featured Work
+## 🏗 Featured projects
 
-### 🔶 Real Estate Algarve — Production Work  
-Next.js 15 + TypeScript + Tailwind + Supabase + Vercel  
-News system built from scratch: dynamic routing, metadata, SEO, canonical rules, error boundaries, env validation.  
-Matched Lisbon site design and resolved major build issues.  
-https://www.realestate-algarve.co
-
-### 🔶 Real Estate Lisbon  
-Aligned article layouts, improved metadata handling, added safety checks, and coordinated multi-site UI/SEO.  
-https://www.realestate-lisbon.com
-
-### 🔶 5 Steps Real Estate Hub  
-Shared UI/SEO conventions across regional platforms.  
-Strengthened component reuse and internal linking strategy.  
-https://www.5stepsrealestate.com
-
-### 🧠 YOLOv8 Object Detection System  
-Real-time computer vision with Streamlit + Python.  
-~30 FPS on modern hardware.  
-Categorizes and tracks objects live.
-
-### 📚 Library Management System  
-C# + SQL Server  
-Console-based system for borrowing, returning, and managing books.  
-[GitHub Repository](https://github.com/Abdoessam0/Library-Management-System)
-
-### 🎫 Event Management System  
-Full-stack CRUD system to manage event creation, registration, and admin workflow.  
-[GitHub Repository](https://github.com/Abdoessam0/event-management-system)
-
-### ⚛️ DPS React Challenge  
-A clean, typed React solution focusing on structure and UI clarity.  
-[GitHub Repository](https://github.com/Abdoessam0/dps-react-challenge)
+| Project | Stack | What it does | Links |
+|--------|-------|--------------|-------|
+| **Algarve Real Estate Project** | Next.js 15 · TS · Tailwind | Training version of a real estate platform, focused on routing, UI and SEO. | 🔗 [GitHub](https://github.com/Abdoessam0/algarve-project) |
+| **YOLOv8 Object Detection** | Python · YOLOv8 · Streamlit | Real-time object detection app running ~30 FPS with live camera feed. | 🔗 [GitHub](https://github.com/Object-Detection-Team/object-detection-localization) |
+| **Library Management System** | C# · SQL Server | Console app to manage books, lending, returning and users. | 🔗 [GitHub](https://github.com/Abdoessam0/Library-Management-System) |
+| **Event Management System** | JS · Node / Express | Full-stack CRUD system for events, registrations and admin panel. | 🔗 [GitHub](https://github.com/Abdoessam0/event-management-system) |
+| **DPS React Challenge** | React · TypeScript | Typed React solution with clean components and layout. | 🔗 [GitHub](https://github.com/Abdoessam0/dps-react-challenge) |
+| **The Loop – Game** | Unity · C# | Narrative lifecycle game, designed to integrate AI-driven character dialogue. | 🔗 [GitHub](https://github.com/Abdoessam0/The-Loop) |
+| **printf (C implementation)** | C · Low level | Custom implementation of `printf` for deeper understanding of C internals. | 🔗 [GitHub](https://github.com/Abdoessam0/printf) |
+| **CV Portfolio** | HTML · CSS | Simple online CV / profile page. | 🔗 [GitHub](https://github.com/Abdoessam0/CV-protfolio) |
+| **trustedbuildr** | JS | Extended version of trustbuilder with extra logic. | 🔗 [GitHub](https://github.com/Abdoessam0/trustedbuildr) |
 
 ---
 
-## Experience
+## 💼 Experience
 
 ### Erasmus+ Traineeship — Full Stack Developer  
-**RE/MAX Wise, Lisbon**  
-01/09/2025 → 11/11/2025  
-Worked on three production real-estate platforms.  
-Built new features, improved SEO, fixed CI/CD issues, managed Supabase envs, and matched UI systems across sites.
+**RE/MAX Wise, Lisbon** · `01/09/2025 → 11/11/2025`  
+
+Worked on production real-estate platforms:
+
+- Implemented features on real estate sites (Next.js 15, TypeScript, Tailwind, Supabase, Vercel)  
+- Built and improved News / article flows, routing and metadata  
+- Fixed build and lint issues and improved SEO and performance  
+- Managed Supabase and Vercel environments and deployments  
+
+---
 
 ### European Solidarity Corps Volunteer  
-Youth Summer Fest – Romania  
-01/08/2025 → 31/08/2025  
-Facilitation, workshops, team coordination, media content, digital skills.
+**Youth Summer Fest – Romania** · `01/08/2025 → 31/08/2025`  
+
+- Facilitated workshops and youth activities  
+- Coordinated with international teams  
+- Helped with content, logistics and digital tasks  
 
 ---
 
-## Contact
+## 📊 GitHub stats
 
-LinkedIn  
-https://www.linkedin.com/in/abdo-mo  
+<div align="center">
 
-GitHub  
-https://github.com/Abdoessam0  
+![Abdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdoessam0&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdoessam0&layout=compact&theme=tokyonight)
 
-Email  
-abdoessammo@gmail.com
-
----
-# Hey there, I'm Abdo 👋
-
-Computer Engineering student at **Atatürk University**.  
-Full-Stack Developer with hands-on experience in **Next.js 15**, **TypeScript**, **React**, **Tailwind**, **Supabase**, **Node.js**, **PHP/Laravel**, and **AI/ML (YOLOv8)**.
-
-I build functional, production-ready systems.  
-I enjoy debugging, improving performance, and writing clean code.  
-I focus on practical learning through real projects, internships, and research.
+</div>
 
 ---
 
-## What I Do
+## 📫 Contact
 
-- Full-stack web development  
-- AI vision and small ML systems  
-- System engineering with Linux, Git, CI/CD  
-- Real estate platforms with production SEO  
-- UI/UX refinement and responsive design  
-- API integrations and cloud deployment
-
----
-
-## Tech Stack
-
-**Languages**  
-JavaScript  
-TypeScript  
-Python  
-C  
-C#  
-PHP  
-SQL  
-HTML  
-CSS  
-
-**Frameworks**  
-Next.js 15  
-React  
-Node.js  
-Laravel  
-Tailwind  
-Supabase  
-WordPress (themes + plugins)  
-
-**Tools**  
-Git  
-GitHub  
-Linux  
-Vercel  
-Docker basics  
-Figma  
-AWS (learning)
-
----
-
-## Featured Work
-
-### 🔶 Real Estate Algarve — Production Work  
-Next.js 15 + TypeScript + Tailwind + Supabase + Vercel  
-News system built from scratch: dynamic routing, metadata, SEO, canonical rules, error boundaries, env validation.  
-Matched Lisbon site design and resolved major build issues.  
-https://www.realestate-algarve.co
-
-### 🔶 Real Estate Lisbon  
-Aligned article layouts, improved metadata handling, added safety checks, and coordinated multi-site UI/SEO.  
-https://www.realestate-lisbon.com
-
-### 🔶 5 Steps Real Estate Hub  
-Shared UI/SEO conventions across regional platforms.  
-Strengthened component reuse and internal linking strategy.  
-https://www.5stepsrealestate.com
-
-### 🧠 YOLOv8 Object Detection System  
-Real-time computer vision with Streamlit + Python.  
-~30 FPS on modern hardware.  
-Categorizes and tracks objects live.
-
-### 📚 Library Management System  
-C# + SQL Server  
-Console-based system for borrowing, returning, and managing books.  
-[GitHub Repository](https://github.com/Abdoessam0/Library-Management-System)
-
-### 🎫 Event Management System  
-Full-stack CRUD system to manage event creation, registration, and admin workflow.  
-[GitHub Repository](https://github.com/Abdoessam0/event-management-system)
-
-### ⚛️ DPS React Challenge  
-A clean, typed React solution focusing on structure and UI clarity.  
-[GitHub Repository](https://github.com/Abdoessam0/dps-react-challenge)
-
----
-
-## Experience
-
-### Erasmus+ Traineeship — Full Stack Developer  
-**RE/MAX Wise, Lisbon**  
-01/09/2025 → 11/11/2025  
-Worked on three production real-estate platforms.  
-Built new features, improved SEO, fixed CI/CD issues, managed Supabase envs, and matched UI systems across sites.
-
-### European Solidarity Corps Volunteer  
-Youth Summer Fest – Romania  
-01/08/2025 → 31/08/2025  
-Facilitation, workshops, team coordination, media content, digital skills.
-
----
-
-## Contact
-
-LinkedIn  
-https://www.linkedin.com/in/abdo-mo  
-
-GitHub  
-https://github.com/Abdoessam0  
-
-Email  
-abdoessammo@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/abdo-mo  
+- **GitHub:** https://github.com/Abdoessam0  
+- **Email:** `abdoessammo@gmail.com`  
 
 ---
