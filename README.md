@@ -14,7 +14,8 @@ Computer Engineering Student • Full-Stack Developer • AI & DevOps Enthusiast
 
 ## 🚀 About me
 
-Computer Engineering student at **Atatürk University**.  
+Software Engineer with experience building modern, scalable web applications using Next.js, TypeScript, Node.js, and cloud technologies.
+ 
 I work mainly with **Next.js 15**, **TypeScript**, **React**, **Tailwind**, **Supabase**, **Node.js**, **PHP/Laravel**, and **AI/ML (YOLOv8)**.
 
 - I build functional, production-ready systems  
