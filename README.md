@@ -50,30 +50,6 @@ I work mainly with **Next.js 15**, **TypeScript**, **React**, **Tailwind**, **Su
 | **CV Portfolio** | HTML · CSS | Simple online CV / profile page. | 🔗 [GitHub](https://github.com/Abdoessam0/CV-protfolio) |
 | **trustedbuildr** | JS | Extended version of trustbuilder with extra logic. | 🔗 [GitHub](https://github.com/Abdoessam0/trustedbuildr) |
 
----
-
-## 💼 Experience
-
-### Erasmus+ Traineeship — Full Stack Developer  
-**RE/MAX Wise, Lisbon** · `01/09/2025 → 11/11/2025`  
-
-Worked on production real-estate platforms:
-
-- Implemented features on real estate sites (Next.js 15, TypeScript, Tailwind, Supabase, Vercel)  
-- Built and improved News / article flows, routing and metadata  
-- Fixed build and lint issues and improved SEO and performance  
-- Managed Supabase and Vercel environments and deployments  
-
----
-
-### European Solidarity Corps Volunteer  
-**Youth Summer Fest – Romania** · `01/08/2025 → 31/08/2025`  
-
-- Facilitated workshops and youth activities  
-- Coordinated with international teams  
-- Helped with content, logistics and digital tasks  
-
----
 
 ## 📊 GitHub Stats
 
