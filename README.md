@@ -75,14 +75,16 @@ Worked on production real-estate platforms:
 
 ---
 
-## 📊 GitHub stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Abdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdoessam0&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdoessam0&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abdoessam0&show_icons=true&theme=tokyonight" height="180" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abdoessam0&layout=compact&theme=tokyonight" height="180" />
 
 </div>
+
 
 ---
 
