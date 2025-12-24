@@ -2,7 +2,7 @@
 
 # Hey there, I'm Abdo 👋  
 
-Computer Engineering Student • Full-Stack Developer • AI & DevOps Enthusiast  
+Computer Engineering  • Full-Stack Developer • AI & DevOps Enthusiast  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdo-mo)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdoessam0)
